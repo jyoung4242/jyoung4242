@@ -21,11 +21,11 @@ I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learn
 
 📫 How to reach me: ...
 
--https://www.youtube.com/channel/UCfZunBqJbhV3lYj-3JT7gvg
+-[link]https://www.youtube.com/channel/UCfZunBqJbhV3lYj-3JT7gvg
 
--https://twitter.com/jyoung424242
+-[link]https://twitter.com/jyoung424242
 
--https://www.linkedin.com/in/justindeanyoung/
+-[link]https://www.linkedin.com/in/justindeanyoung/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoung4242)](https://github.com/anuraghazra/github-readme-stats)
 <!--
