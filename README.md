@@ -21,11 +21,15 @@ I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learn
 
 📫 How to reach me: ...
 
+-[Email] (mailto:justin_dean_young@yahoo.com)
+
 -[Youtube](http://www.youtube.com/channel/UCfZunBqJbhV3lYj-3JT7gvg)
 
 -[Twitter](http://twitter.com/jyoung424242)
 
 -[LinkedIn](http://www.linkedin.com/in/justindeanyoung/)
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoung4242)](https://github.com/anuraghazra/github-readme-stats)
 <!--
