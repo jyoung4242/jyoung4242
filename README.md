@@ -8,15 +8,12 @@ I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learn
 
 
 🌱 I’m currently learning ...
--   React
--   Godot
--   Typescript
--   Webpack
--   Tailwinds CSS
--   Git and Github
--   HTML/JS/CSS
--   Heroku with Postgres
--   Node and Express
+- Front-end Technologies
++React, Typescript, HTML, CSS, JS, Tailwinds, Webpack
+- Backend Tech
++ Node, Express, and pushing out to Heroku w/ Postgres
+-Godot
+-GitHub and Git
 
 
 📫 How to reach me: ...
