@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, I'm Justin 👋
+
+I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learning new technologies, and recently have been:
+- 🌱 I’m currently learning ...
+-   React
+-   Typescript
+-   Webpack
+-   Tailwinds CSS
+-   Git and Github
+-   HTML/JS/CSS
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoung4242)](https://github.com/anuraghazra/github-readme-stats)
 <!--
