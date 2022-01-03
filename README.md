@@ -21,13 +21,13 @@ I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learn
 
 📫 How to reach me: ...
 
--[Email] (mailto:justin_dean_young@yahoo.com)
+-[mailto](mailto:justin_dean_young@yahoo.com "Yahoo Email")
 
--[Youtube](http://www.youtube.com/channel/UCfZunBqJbhV3lYj-3JT7gvg)
+-[Youtube](http://www.youtube.com/channel/UCfZunBqJbhV3lYj-3JT7gvg "Youtube Channel")
 
--[Twitter](http://twitter.com/jyoung424242)
+-[Twitter](http://twitter.com/jyoung424242 "Twitter Handle")
 
--[LinkedIn](http://www.linkedin.com/in/justindeanyoung/)
+-[LinkedIn](http://www.linkedin.com/in/justindeanyoung/ "LinkedIN profile")
 
 
 
