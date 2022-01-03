@@ -19,7 +19,8 @@ I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learn
 -   Node and Express
 
 
-📫 How to reach me: ..
+📫 How to reach me: ...
+
 -https://twitter.com/jyoung424242
 
 -https://www.linkedin.com/in/justindeanyoung/
