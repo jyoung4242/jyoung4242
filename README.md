@@ -1,25 +1,25 @@
-### Hello, I'm Justin 👋
+# Hello, I'm Justin 👋
 
-I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learning new technologies, and recently have been:
-===
+## I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learning new technologies, and recently have been:
 
 🔭 I’m currently working on ...
-- Demon Siege, a cooperative, deck building card game developed in Godot
+- **Demon Siege**, a cooperative, deck building card game developed in Godot
 
 
 🌱 I’m currently learning ...
-- Front-end Technologies
+- **Front-end Technologies**
 
-- +React, Typescript, HTML, CSS, JS, Tailwinds, Webpack
+  - React, Typescript, HTML, CSS, JS, Tailwinds, Webpack
 
-- Backend Tech
+- **Backend Tech**
 
-+ Node, Express, and pushing out to Heroku w/ Postgres
+  - Node, Express, and pushing out to Heroku w/ Postgres
 
--Godot
+-**Godot**
 
--GitHub and Git
+-**GitHub and Git**
 
+___
 
 📫 How to reach me: ...
 
@@ -33,18 +33,3 @@ I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learn
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoung4242)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**jyoung4242/jyoung4242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
