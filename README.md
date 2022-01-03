@@ -21,6 +21,8 @@ I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learn
 
 📫 How to reach me: ...
 
+-https://www.youtube.com/channel/UCfZunBqJbhV3lYj-3JT7gvg
+
 -https://twitter.com/jyoung424242
 
 -https://www.linkedin.com/in/justindeanyoung/
