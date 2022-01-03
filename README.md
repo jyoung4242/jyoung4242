@@ -1,6 +1,8 @@
 ### Hello, I'm Justin 👋
 
 I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learning new technologies, and recently have been:
+===
+
 🔭 I’m currently working on ...
 - Demon Siege, a cooperative, deck building card game developed in Godot
 
