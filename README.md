@@ -21,6 +21,9 @@
 
 ___
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoung4242)](https://github.com/anuraghazra/github-readme-stats)
+___
+
 📫 How to reach me: ...
 
 -[Email](mailto:justin_dean_young@yahoo.com "Yahoo Email")
