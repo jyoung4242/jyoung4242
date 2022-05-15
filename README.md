@@ -13,7 +13,8 @@
 
 - **Backend Tech**
 
-  - Node, Express, and pushing out to Heroku w/ Postgres
+  - Node, Hathora, Express, and pushing out to Heroku w/ Postgres
+  (Hathora link: https://docs.hathora.dev/#/)
 
 -**Godot**
 
