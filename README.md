@@ -3,11 +3,12 @@
 ## I'm from the midwest United States, and I'm a hobbyist developer.  I enjoy learning new technologies, and recently have been:
 
 🔭 I’m currently working on ...
+
 - Squeleto, a 2d game library utility, see repo
 - Making a Clue, MultiPlayer Game using Squeleto
 
 🔭 Things that I HAVE done
-
+- 5 minigames that i intend to build into Clue, but protos are on my itch page
 - **Demon Siege**, a cooperative, deck building card game developed in Godot and/or Typescript
 - Asteroids Plus 2.0, a space shooter made entirely in Typescript
 - The devlog for Asteroids Plus 2.0, -[Devlog](https://mookie4242.itch.io/asteroids-plus-20/devlog/471534/milestone-1-deciding-to-make-a-game)
