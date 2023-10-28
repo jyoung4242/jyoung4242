@@ -5,7 +5,9 @@
 🔭 I’m currently working on ...
 
 - Squeleto, a 2d game library utility, see repo
-- Making a Clue, MultiPlayer Game using Squeleto
+- Wrapping up the tutorial demoes for Squeleto
+- Updating the documentation for Squeleto [Link to Docs](https://jyoung4242.github.io/Squeleto-Docs/#/)
+  
 
 🔭 Things that I HAVE done
 - 5 minigames that i intend to build into Clue, but protos are on my itch page
