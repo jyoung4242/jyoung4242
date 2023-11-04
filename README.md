@@ -5,7 +5,8 @@
 🔭 I’m currently working on ...
 
 - Squeleto, a 2d game framework [link to repo](https://github.com/jyoung4242/Squeleto)
-- Wrapping up the tutorial demoes for Squeleto
+- Wrapped up my tutorial demoes for Squeleto
+  - [Link to Demo](https://mookie4242.itch.io/demo-tutorial-for-squeleto)   
 - Updating the documentation for Squeleto [Link to Docs](https://jyoung4242.github.io/Squeleto-Docs/#/)
   
 
