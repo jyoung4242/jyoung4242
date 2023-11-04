@@ -20,7 +20,7 @@
 - **Programming and Game Dev**
   - Godot 4.0
   - 3d technologies like three.js and blender
-  - React, Typescript, HTML, CSS, JS, Tailwinds, Webpack
+  - Going to dive into Shaders this year, Docker, and Github Actions for CI/CD
 
 - **Backend Tech**
 
