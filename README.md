@@ -4,13 +4,14 @@
 
 🔭 I’m currently working on ...
 
-- Squeleto, a 2d game framework [link to repo](https://github.com/jyoung4242/Squeleto)
+- Utilizing ExcaliburJS to make a multiplayer SmashTV clone  
+
+🔭 Things that I HAVE done
+Squeleto, a 2d game framework [link to repo](https://github.com/jyoung4242/Squeleto)
 - Wrapped up my tutorial demoes for Squeleto
   - [Link to Demo](https://mookie4242.itch.io/demo-tutorial-for-squeleto)   
 - Updating the documentation for Squeleto [Link to Docs](https://jyoung4242.github.io/Squeleto-Docs/#/)
   
-
-🔭 Things that I HAVE done
 - 5 minigames that i intend to build into Clue, but protos are on my itch page
 - **Demon Siege**, a cooperative, deck building card game developed in Godot and/or Typescript
 - Asteroids Plus 2.0, a space shooter made entirely in Typescript
