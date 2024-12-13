@@ -7,7 +7,7 @@
 - Utilizing ExcaliburJS to make a multiplayer SmashTV clone  
 
 🔭 Things that I HAVE done
-Squeleto, a 2d game framework [link to repo](https://github.com/jyoung4242/Squeleto)
+- Squeleto, a 2d game framework [link to repo](https://github.com/jyoung4242/Squeleto)
 - Wrapped up my tutorial demoes for Squeleto
   - [Link to Demo](https://mookie4242.itch.io/demo-tutorial-for-squeleto)   
 - Updating the documentation for Squeleto [Link to Docs](https://jyoung4242.github.io/Squeleto-Docs/#/)
