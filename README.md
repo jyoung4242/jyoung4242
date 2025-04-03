@@ -19,6 +19,7 @@
 
 🌱 I’m currently learning ...
 - **Programming and Game Dev**
+  - [ExcaliburJS](https://excaliburjs.com/)
   - Godot 4.0
   - 3d technologies like three.js and blender
   - Going to dive into Shaders this year, Docker, and Github Actions for CI/CD
