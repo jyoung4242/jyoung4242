@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on ...
 
-- Utilizing ExcaliburJS to make a multiplayer SmashTV clone  
+- Tutorials for ExcaliburJS
 
 🔭 Things that I HAVE done
 - Squeleto, a 2d game framework [link to repo](https://github.com/jyoung4242/Squeleto)
